@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghavendra Radhakrishnan</h1>
-<h3 align="center">I am a passionate BCA student working in Moolya Software Testing in Bangalore, India</h3>
+<h3 align="center">I am a passionate BCA student working in Moolya Software Testing and Bugasura as a Associate Software Engineer in Bengaluru, India</h3>
 
 - 🔭 I’m currently working on **Flask**
 
